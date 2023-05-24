@@ -1,6 +1,6 @@
 # 【 BMI計算機 】
 
-<img width="379" height="800" src="https://github.com/gsbka7/bmi/blob/main/img-readme/bmi.png"/>
+<img width="800" height="800" src="https://github.com/gsbka7/bmi/blob/main/img-readme/bmi.png"/>
 
 ## 1. 介紹
 
