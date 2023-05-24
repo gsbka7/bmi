@@ -16,4 +16,4 @@
 
 ## 3. 部署
 
-#### 網址：[https://gsbka7.github.io/bmi/](https://gsbka7.github.io/bmi/)
+#### [https://gsbka7.github.io/bmi/](https://gsbka7.github.io/bmi/)
