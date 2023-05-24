@@ -8,8 +8,6 @@
 
 ・JavaScript
 
-・ RWD
-
 ## 2. 功能
 
 1. 計算BMI數值
